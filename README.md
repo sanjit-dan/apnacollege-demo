@@ -1,2 +1,4 @@
 # apnacollege-demo
-this is my first Git Repository
+This Is My First Git Repository
+<br>
+Owner--Sanjit Dan
